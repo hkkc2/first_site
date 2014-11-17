@@ -1,0 +1,38 @@
+  header{
+      text-align:center;
+      background: url("http://www.formmailreply.com/jrgv/wp-content/uploads/2013/09/lifescience.jpg");
+      background-size: cover;
+      color: white;
+  }
+
+  a{
+    color: white;
+  }
+  h1{
+    font-size:70px;
+    font-family:verdana;
+  
+  }
+
+
+h1#site_name{ margin: 0 ;
+}
+
+
+  img{
+    margin: 20px 0px 0px 0px;
+    border: 7px solid white;
+    border-radius:20px;
+  }
+  ul{
+    padding: 10px;
+      background: rgba(0, 0, 0, 0.5);
+    font-family:verdana;
+
+  }
+  li{
+    display: inline;
+    padding: 0px 10px 10px 10px;
+    font-family:verdana;
+  }
+
